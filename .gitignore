@@ -2,9 +2,19 @@
 !*.xcodeproj/project.pbxproj
 !*.xcworkspace/contents.xcworkspacedata
 xcuserdata
+docs
+build
 *.xccheckout
 *.moved-aside
 *.xcuserstate
 *.xcscmblueprint
 .DS_Store
+Pods
 
+soe/bat/*
+soe/obj/*
+soe/bin/*
+soe/air/*
+soe/AIR_readme.txt
+
+build/lf.build/Release-iphoneos/lf.build/dgph
